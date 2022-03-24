@@ -292,7 +292,7 @@ crate.annotation(<a href="#crate.annotation-version">version</a>, <a href="#crat
                  <a href="#crate.annotation-rustc_flags">rustc_flags</a>, <a href="#crate.annotation-shallow_since">shallow_since</a>)
 </pre>
 
-A collection of extra attributes and settings for a particular crate
+A collection of extra attributes and settings for a particular crate. See [crate_repository's annotations arg](#crates_repository-annotations).
 
 **PARAMETERS**
 
